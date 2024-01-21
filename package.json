@@ -1,0 +1,21 @@
+{
+  "name": "Candy-Shop-Eclipse",
+  "displayName": "Candy Shop Eclipse",
+  "description": "Candy Shop Eclipse is a dark theme that combines the mystery and drama of an eclipse with the sweetness and glamour of a candy shop. The theme features a deep black background that contrasts with the bright and colorful hues. The theme is ideal for those who want a striking and elegant look for their VS Code editor, with a touch of whimsy and fun. Candy Shop Eclipse is a theme that will make your coding experience more enjoyable and impressive. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Candy-Shop-Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Candy-Shop-Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
