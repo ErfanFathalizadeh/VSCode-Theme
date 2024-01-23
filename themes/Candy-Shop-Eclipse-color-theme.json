@@ -1942,7 +1942,7 @@
 		"inputOption.hoverBackground": "#5dd1fc",
 		"textLink.foreground": "#b9fff4",
 		"editor.background": "#303633",
-		"editor.foreground": "#000000",
+		"editor.foreground": "#ffffff",
 		"editorLightBulb.foreground": "#fcffc6",
 		"editorLightBulbAutoFix.foreground": "#ffffff",
 		"editorLightBulbAi.foreground": "#00ded3",
@@ -1975,12 +1975,12 @@
 		"editorBracketMatch.background": "#8fe0fd00",
 		"editorBracketMatch.border": "#ff54d5",
 		"editorBracketHighlight.foreground1": "#8dffa9",
-		"editorBracketHighlight.foreground2": "#005b00",
-		"editorBracketHighlight.foreground3": "#529100",
-		"editorBracketHighlight.foreground4": "#a0c600",
-		"editorBracketHighlight.foreground5": "#f9fb00",
+		"editorBracketHighlight.foreground2": "#f9fb00",
+		"editorBracketHighlight.foreground3": "#a0c600",
+		"editorBracketHighlight.foreground4": "#529100",
+		"editorBracketHighlight.foreground5": "#005b00",
 		"editorBracketHighlight.foreground6": "#d4720a",
-		
+		"editorBracketHighlight.unexpectedBracket.foreground": "#f44336",
 		"editor.foldBackground": "#FFFFFF0F",
 		"editorOverviewRuler.background": "#25252500",
 		"editorOverviewRuler.border": "#7f7f7f4d",
@@ -2148,7 +2148,7 @@
 		"welcomePage.tileHoverBackground": "#8fdffd", 
 		"welcomePage.progress.foreground": "#ff8de3", 
 		"welcomePage.progress.background": "#ff54d5",
-		
+		"extensionButton.prominentForeground": "#ff0000"
 
 	}
 
