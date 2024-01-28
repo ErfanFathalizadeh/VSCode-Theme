@@ -45,4 +45,4 @@ We welcome contributions from the community. To submit changes:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-![Theme Preview](./resources/candy-shop.png)
+![Theme Preview](./themes/resources/candy-shop.png)

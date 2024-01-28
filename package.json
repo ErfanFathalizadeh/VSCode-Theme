@@ -160,5 +160,5 @@
       "theme": "dark"
     }
   },
-  "icon": "./resources/candy-shop.png"
+  "icon": "./themes/resources/candy-shop.png"
 }
