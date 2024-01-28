@@ -2279,6 +2279,11 @@
 		"welcomePage.tileHoverBackground": "#8fdffd",
 		"welcomePage.progress.foreground": "#ff8de3",
 		"welcomePage.progress.background": "#ff54d5",
-		"extensionButton.prominentForeground": "#ff0000"
+		"editorIndentGuide.activeBackground1": "#8dffaa80",
+		"editorIndentGuide.activeBackground2": "#fbfb0080",
+		"editorIndentGuide.activeBackground3": "#9ec60080",	
+		"editorIndentGuide.activeBackground4": "#52910080",
+		"editorIndentGuide.activeBackground5": "#005b0080",
+		"editorIndentGuide.activeBackground6": "#d4720a80",
 	}
 }
