@@ -146,6 +146,7 @@
   "categories": [
     "Themes"
   ],
+  
   "contributes": {
     "themes": [
       {
@@ -153,6 +154,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Candy-Shop-Eclipse-color-theme.json"
       }
-    ]
-  }
+    ],
+    "galleryBanner": {
+      "color": "#000000",
+      "theme": "dark"
+    }
+  },
+  "icon": "./resources/candy-shop.png"
 }
